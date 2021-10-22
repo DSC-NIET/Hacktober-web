@@ -1,5 +1,5 @@
 # Hacktoberfest'21
-We've created a simple website to fetch all contributors of hacktoberfest. Check it out here: 
+We've created a simple website to fetch all contributors of hacktoberfest! Check it out here: 
 
 # joining the list
 To join to the list of contributors you just need to do this simple steps:
