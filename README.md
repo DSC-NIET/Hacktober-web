@@ -11,5 +11,9 @@ To join to the list of contributors you just need to do this simple steps:
 * Commit your changes
 * Create a new PR
 
+# Congratulations to all the contributors on generating a successful PR!
+
+* If you wish, you can still contribute this repository.
+
 Happy hacking!
 
